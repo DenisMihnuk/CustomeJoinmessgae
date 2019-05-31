@@ -1,0 +1,13 @@
+name: Customejoinmessage
+version: 5.0
+main: fr.denismihnuk.customejoinmessage.bukkit.Customejoinmessage
+authors: [DenisMihnuk]
+commands:
+  customejoinmessage:
+    permission: customejoinmessage.use
+  customejoinmessagereload:
+    permission: customejoinmessagereload.use
+  setjoinmessage:
+    permission: setjoinmessage.use
+  setquitmessage:
+    permission: setquitmessage.use

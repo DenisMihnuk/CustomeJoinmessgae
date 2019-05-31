@@ -1,0 +1,4 @@
+name: CustomeJoinMessage
+author: [DenisMihnuk]
+version: 5.0
+main: fr.denismihnuk.customejoinmessage.bungee.BungeeCustomeJoinMessage

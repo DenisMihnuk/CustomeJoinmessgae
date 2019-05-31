@@ -1,0 +1,21 @@
+#Use %player% for the nickname of the player coming or leaving
+#You can also disable Join and quit Message
+
+
+message: true
+
+join: "&4%player% Customejoinmessage by denismihnuk"
+quit: "&4%player% Customejoinmessage by denismihnuk"
+
+#You can use the titles except for the bukkit/spigot servers under a 1.11
+title: true
+
+#1 Seconde = 20000
+time: 60
+big-title: "&a%player% is a Big Title"
+small-title: "%player% is a smallTitle"
+fade-in: 20
+fade-out: 20
+
+
+
